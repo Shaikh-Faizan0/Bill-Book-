@@ -55,4 +55,4 @@ Usage Example:
 
 Author:
 -------
-This code was authored by [Your Name]. It is intended for educational and illustrative purposes.
+This code was authored by Shaikh Faizan Shaikh Mohammed Iqbal. It is intended for educational and illustrative purposes.
